@@ -28,15 +28,11 @@ Additionally, the script:
 
 ### Environment Setup
 
-1. **Set the OpenAI API Key**:
+**Set the OpenAI API Key**:
 
     ```bash
     export OPENAI_API_KEY=your_openai_api_key_here
     ```
-
-2. **Prepare Your Directory**:
-    - Create a folder named `your-folder` and add some files to it.
-    - Alternatively, specify another folder path with the `--folder` flag.
 
 ### Running the Script
 
