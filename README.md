@@ -30,9 +30,9 @@ Additionally, the script:
 
 **Set the OpenAI API Key**:
 
-    ```bash
-    export OPENAI_API_KEY=your_openai_api_key_here
-    ```
+```bash
+export OPENAI_API_KEY=your_openai_api_key_here
+```
 
 ### Running the Script
 
