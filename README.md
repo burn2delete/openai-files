@@ -1,5 +1,5 @@
 # openai-files
-# OpenAI Vector Store Sync Script
+OpenAI Vector Store Sync
 
 This Go script scans a specified folder for files and nested files, generates a manifest containing the path to the file and an SHA256 hash of the file, and updates this manifest when files change.
 
