@@ -58,8 +58,8 @@ go run main.go --cleanup --folder your-folder --vector-store-id <VECTOR_STORE_ID
 ```
 
 #### Command-Line Flags
-`--folder`: Folder to scan for files (default: ./your-folder).
-`--vector-store-id`: ID of the OpenAI Vector Store.
-`--cleanup`: Enable cleanup of deleted files in OpenAI.
-`--dry-run`: Disable uploading to OpenAI.
-`--output`: Output file for the manifest; if not specified, print to console.
+- `--folder`: Folder to scan for files (default: ./your-folder).
+- `--vector-store-id`: ID of the OpenAI Vector Store.
+- `--cleanup`: Enable cleanup of deleted files in OpenAI.
+- `--dry-run`: Disable uploading to OpenAI.
+- `--output`: Output file for the manifest; if not specified, print to console.
